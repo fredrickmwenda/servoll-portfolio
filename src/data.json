@@ -1,0 +1,473 @@
+{
+  "headerData": {
+    "logoDark": "/images/logo.png",
+    "logoLight": "/images/logo.png"
+  },
+  "heroData": {
+    "title": "My name<br />is <b>Fredrick</b> <span><br />Mwenda...</span>",
+    "subTitle": "<span>Software Engineer</span> based in <span>Kenya</span>",
+    "ImgLink": "/images/home-banner.png",
+    "phone": "+254 713 723353",
+    "email": "mwendafredrick31@gmail.com",
+    "btnText": "Work with me",
+    "socialData": [
+      {
+        "link": "",
+        "icon": "twitter"
+      },
+      {
+        "link": "",
+        "icon": "instagram"
+      },
+      {
+        "link": "",
+        "icon": "facebook"
+      }
+    ]
+  },
+  "aboutData": {
+    "aboutLeft": {
+      "ImgLink": "/images/about-banner.png",
+      "name": "Fredrick Mwenda",
+      "designation": "Software Engineer<span>based in</span> Kenya",
+      "resumeCv": "/Resume.pdf"
+    },
+    "aboutRight": {
+      "aboutText": "As a dedicated Full-Stack Developer, I bring a comprehensive approach to web development, managing both front-end and back-end tasks to deliver seamless, high-performing applications. My portfolio includes projects such as a sophisticated online marketplace and a real-time collaboration tool, each built with a strong emphasis on scalability, user experience, and maintainability. Proficient in technologies like React, Django, Laravel, and Flutter, I ensure that every layer of the application, from database design to user interface, is optimized for efficiency and usability. My holistic development approach enables me to create solutions that not only meet current business needs but are also equipped to handle future growth.",
+      "contactInfo": [
+        {
+          "icon": "phone",
+          "data": "+254 713 723353"
+        },
+        {
+          "icon": "person",
+          "data": "Fredrick Mwenda"
+        },
+        {
+          "icon": "envelope",
+          "data": "mwendafredrick31@gmail.com"
+        },
+        {
+          "icon": "map",
+          "data": "Nairobi, Kenya"
+        }
+      ],
+      "archivement": [
+        {
+          "number": "6+",
+          "meta": "Years <br /> experience...",
+          "text": "Hello there! My name is <span>Fredrick Mwenda</span>. I am a full-stack software engineer & developer, and Im very passionate and dedicated to my work."
+        },
+        {
+          "number": "50+",
+          "meta": "Clients <br /> Worldwide...",
+          "text": "With 6+ years experience as a professional developer, I have acquired the skills to make your project a success."
+        }
+      ],
+      "note": "“Current CEO of Servoll Technologies”"
+    }
+  },
+  "experienceData": {
+    "text": "Hello there! My name is Fredrick Mwenda. I am a Full-Stack Software Engineer & developer, and Im very passionate and dedicated to my work.",
+    "resumeCv": "/Resume.pdf",
+    "experience": [
+      {
+        "start": "Jan 2024",
+        "end": "To Date",
+        "title": "Servoll Technology CEO",
+        "subtitle": "Software Consultant"
+      },
+      {
+        "start": "April 2023",
+        "end": "To Date",
+        "title": "Topend Software Consult",
+        "subtitle": "Software Consultant"
+      },
+      {
+        "start": "Oct 2022",
+        "end": "FEB 2023",
+        "title": "Centrics Software Engineer",
+        "subtitle": "Software Engineer"
+      },
+      {
+        "start": "July 2021",
+        "end": "DEC 2021",
+        "title": "Zalego LEAD Backend Software Engine",
+        "subtitle": "UI/UX Lead"
+      },
+      {
+        "start": "2015",
+        "end": "2017",
+        "title": "ORACOM WEB DESIGN AND DEVELOPER",
+        "subtitle": "Jr. Developer"
+      }
+
+    ]
+  },
+  "serviceData": [
+    {
+      "title": "Web Design",
+      "heading": "Creative Web Design Solutions",
+      "triger": "One",
+      "imgLink": "/images/services-1.jpg",
+      "text": "Transform your online presence with our innovative web design services. We craft visually appealing, user-friendly websites that resonate with your brand and engage your audience. Whether you need a corporate website or a creative portfolio, our designs are tailored to meet your business goals."
+    },
+    {
+      "title": "UI/UX Design",
+      "heading": "Exceptional UI/UX Design",
+      "triger": "Two",
+      "imgLink": "/images/services-2.jpg",
+      "text": "Deliver an outstanding user experience with our UI/UX design services. We focus on intuitive, user-centered design that enhances usability and provides a seamless interaction for your customers. From wireframes to final prototypes, we ensure that your digital product is both functional and delightful."
+    },
+    {
+      "title": "Front End Development",
+      "heading": "Cutting-Edge Front End Development",
+      "triger": "Three",
+      "imgLink": "/images/services-1.jpg",
+      "text": "Bring your designs to life with our front-end development expertise. We specialize in creating responsive, high-performance interfaces that work across all devices. Our team uses the latest technologies to ensure your website is fast, accessible, and visually stunning."
+    },
+    {
+      "title": "Backend Development",
+      "heading": "Robust Backend Development",
+      "triger": "Four",
+      "imgLink": "/images/services-1.jpg",
+      "text": "Power your applications with our reliable backend development services. We build scalable, secure, and efficient server-side solutions that support your business operations. From database management to API integration, our backend systems are designed to handle complex workflows and high traffic volumes."
+    },
+    {
+      "title": "Mobile Application Development",
+      "heading": "Innovative Mobile Application Development",
+      "triger": "Five",
+      "imgLink": "/images/services-3.jpg",
+      "text": "Expand your reach with custom mobile applications designed for both iOS and Android platforms. Our mobile development services focus on creating apps that are not only feature-rich but also intuitive and easy to use. Whether you need a business app or a social platform, we bring your ideas to life on mobile."
+    },
+    {
+      "title": "User Research",
+      "heading": "In-Depth User Research",
+      "triger": "Six",
+      "imgLink": "/images/services-4.jpg",
+      "text": "Understand your audience better with our comprehensive user research services. We gather valuable insights through surveys, interviews, and usability testing to ensure your product meets the needs and expectations of your users. Our research-driven approach informs every design decision, leading to more effective and user-friendly solutions"
+    },
+    {
+      "title": "Api Integration",
+      "heading": "Seamless API Integration",
+      "triger": "Seven",
+      "imgLink": "/images/services-4.jpg",
+      "text": "Enhance your digital ecosystem with our API integration services. We connect your applications with third-party services, enabling seamless data exchange and functionality expansion. Whether it's payment gateways, social media platforms, or custom APIs, we ensure smooth and secure integration that boosts your application's capabilities."
+    },
+    {
+      "title": "Network Installation & Setup",
+      "heading": "Professional Network Installation & Setup",
+      "triger": "Seven",
+      "imgLink": "/images/services-1.jpg",
+      "text": "Lay the foundation for your organization's future with our comprehensive network installation and setup services. We specialize in structured cabling that ensures your network is scalable, organized, and ready to support your growth. Whether expanding your office space or upgrading your technology, our cabling solutions provide the reliability and flexibility you need. Trust our experts to design and install a network infrastructure that not only meets your current needs but also anticipates future demands, keeping your organization connected and competitive"
+    }
+  ],
+  "portfolioData": [
+    {
+      "ImgLink": "/images/botachem.png",
+      "subTitle": "Website",
+      "title": "Agrochemicals and poultry Website",
+      "link": "https://botachem.com/",
+      "paragraphList": [
+        {
+          "text": "Botachem is a website managed in the backend by Django and custom HTML in the frontend thrills in empowering farmers and poultry producers with innovative products and expert knowledge. We strive to contribute to the success of your farming operations by offering a comprehensive range of agrochemicals designed to maximize crop yield and protect against pests and diseases. Additionally, our premium poultry products are tailored to ensure the health and productivity of your flocks"
+        },
+        {
+          "text": "Agrochemicals selection includes fertilizers, wetter & spreader, insecticides, herbicides, rooting hormones quality and yield boosters that are formulated to meet the diverse needs of modern agriculture"
+        },
+        {
+          "text": "Poultry Products are categorized into antibiotics, antihelminthics, mineral supplements, and vitamins."
+        },
+        {
+          "text": "Main Attribute of Botachem is Quality Assurance: The products they offer are from reputable manufacturers and conduct rigorous quality checks to ensure that you receive only the best"
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/qorder.png",
+      "subTitle": "Website",
+      "title": "Tap4Menu Restaurant Website",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Tap4menu allows resturants to easily update menu items, prices, and promotions as needed. This is particularly useful for restaurants that frequently change their menus"
+        },
+        {
+          "text": "All a user needs is to scan restaurant qr code and the menu are populated. The users can go ahead and like a specified menu for later order, they can also go ahead and order the menu directly from that restaurant. A restaurant can have different stores in accordance to their location set"
+        }
+  
+
+      ]
+    },
+    {
+      "ImgLink": "/images/loans.png",
+      "subTitle": "Loan Manager",
+      "title": "Loan Management System",
+      "link": "https://admin.studytrustgh.com",
+      "paragraphList": [
+        {
+          "text": "An online loan management system that allows lending businesses to manage their borrowers, loans, repayments, and collections with ease while being affordable at the same time."
+        },
+        {
+          "text": "Most functions can be done in one or two clicks. The system has a simple and clear user interface, with best-practice workflows taking you through all core processes, and relevant data always at your fingertips."
+        },
+        {
+          "text": "The system enables the capture of personal information, unique identifiers, next of kin details, business information and much more. You can upload scanned photos or documents to a client’s account. You can also add your own custom fields."
+        },
+        {
+          "text": "Has flexible loan and savings module which you can adjust or customize to suit your microfinance needs. Manageable fields include loan term, interest rate, repayment schedule, interest calculation method, charges and many other options. Loan approval process follows best microfinance standards."
+        },
+        {
+          "text": "Has flexible loan and savings module which you can adjust or customize to suit your microfinance needs. Manageable fields include loan term, interest rate, repayment schedule, interest calculation method, charges and many other options. Loan approval process follows best microfinance standards."
+        },
+        {
+          "text": "You can configure your chart of accounts with GL codes and link them to loan or savings products and many other applicable areas. Some journal entries are automatic like loan disbursements while some can be added manually. You can find various accounting reports like trial balance, balance sheet and profit and loss accounts."
+        },
+        {
+          "text": "View and export high quality reports. Reports include borrower numbers, loan portfolio, arrears reports, savings reports, expected vs actual payments, collection sheets, provisioning."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/church.png",
+      "subTitle": "Church Manager",
+      "title": "Church Management System",
+      "link": "http://church.mgsservers.com",
+      "paragraphList": [
+        {
+          "text": "This church manager software comes with the best administration solutions that allow you to add the best functionality to church system.Additionally, you can manage the financial contributions, pledges and more. It lets you manage the current events through event calendar panel"
+        },
+        {
+          "text": "You can easily know the details of the registered members, total tags and total contribution, pledges etc."
+        },
+        {
+          "text": "Lets you see the income chart summary of the contributions, pledges, other income payment according to their dates"
+        },
+        {
+          "text": "Allows you to easily handle different events according to the various dates. It allows you to view the content, manage the locations and their dates accordingly.Moreover, you can inform the events which are going to occur on different dates."
+        },
+        {
+          "text": "It also comes with a setting option that lets you manage the various options such as the general setting, SMS panel, email templates, SMS templates, payments updates and more."
+        }
+      ]
+    }
+  ],
+  "blogData": [
+    {
+      "ImgLink": "/images/blog-1.jpg",
+      "date": "12 July, 2022",
+      "delay": "700",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-2.jpg",
+      "date": "11 July, 2022",
+      "delay": "800",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-3.jpg",
+      "date": "10 July, 2022",
+      "delay": "900",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-4.jpg",
+      "date": "10 July, 2022",
+      "delay": "1000",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    }
+  ],
+  "sliderData": {
+    "testimonialInfo": {
+      "useFor": "testimonial",
+      "settings": {
+        "infinite": true,
+        "speed": 1500,
+        "autoplay": true,
+        "autoplaySpeed": 5000,
+        "slidesToShow": 2,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "dots": true,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 1,
+              "autoplay": true
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/avatar-1.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-1.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        }
+      ]
+    },
+    "brandInfo": {
+      "useFor": "brand",
+      "settings": {
+        "infinite": true,
+        "speed": 1000,
+        "autoplay": true,
+        "autoplaySpeed": 3000,
+        "slidesToShow": 5,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 4
+            }
+          },
+          {
+            "breakpoint": 767,
+            "settings": {
+              "slidesToShow": 3
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        },
+        {
+          "imgLink": "/images/brand-3.png"
+        },
+        {
+          "imgLink": "/images/brand-4.png"
+        },
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        }
+      ]
+    }
+  },
+  "contactData": {
+    "contactInfo": [
+      {
+        "icon": "chat-left-dots-fill",
+        "title": "Chat ",
+        "text": "",
+        "emailLink": "support@servolltech.co.ke"
+      },
+      {
+        "icon": "compass",
+        "title": "Visit",
+        "text": "Located along USIU Road"
+      },
+      {
+        "icon": "phone",
+        "title": "Call us",
+        "text": "Mon-Fri from 8am to 5pm. +254 726 128568"
+      }
+    ],
+    "contactForm": {
+      "title": "Got Ideas? We have got the skills. Lets team up.",
+      "text": "Tell us more about yourself and what you are got in mind."
+    }
+  },
+  "footerData": {
+    "ImgLink": "/images/about-banner.png",
+    "name": "fredrick mwenda"
+  },
+  "socialData": [
+    {
+      "icon": "twitter",
+      "link": ""
+    },
+    {
+      "icon": "instagram",
+      "link": ""
+    },
+    {
+      "icon": "facebook",
+      "link": ""
+    }
+ 
+  ]
+}
