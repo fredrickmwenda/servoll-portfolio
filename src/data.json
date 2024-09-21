@@ -4,12 +4,12 @@
     "logoLight": "/images/logo.png"
   },
   "heroData": {
-    "title": "My name<br />is <b>Fredrick</b> <span><br />Mwenda...</span>",
-    "subTitle": "<span>Software Engineer</span> based in <span>Kenya</span>",
+    "title": "We <br />are <b>Servoll</b> <span><br />Technologies...</span>",
+    "subTitle": "<span>Technology Company</span> based in <span>Kenya</span>",
     "ImgLink": "/images/home-banner.png",
     "phone": "+254 713 723353",
-    "email": "mwendafredrick31@gmail.com",
-    "btnText": "Work with me",
+    "email": "support@servolltech.co.ke",
+    "btnText": "Work with Us",
     "socialData": [
       {
         "link": "",
@@ -28,8 +28,8 @@
   "aboutData": {
     "aboutLeft": {
       "ImgLink": "/images/about-banner.png",
-      "name": "Fredrick Mwenda",
-      "designation": "Software Engineer<span>based in</span> Kenya",
+      "name": "Servoll Technologies",
+      "designation": "Technology Company<span>based in</span> Kenya",
       "resumeCv": "/Resume.pdf"
     },
     "aboutRight": {
@@ -41,7 +41,7 @@
         },
         {
           "icon": "person",
-          "data": "Fredrick Mwenda"
+          "data": "Servoll Technologies"
         },
         {
           "icon": "envelope",
